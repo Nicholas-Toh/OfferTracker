@@ -1,0 +1,5 @@
+influxdb
+telethon==1.0.4
+git+https://github.com/BlaQPhoeniX/telethon-session-sqlalchemy.git@postgres-fix
+psycopg2-binary
+pika
