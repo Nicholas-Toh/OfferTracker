@@ -3,15 +3,15 @@ import json
 import sys
 import time
 
-username = "admon_cwoffers_tracker"
-password = "7AiXjEM8bm9BKuxurBbiXw8U3tZYvPAB"
-chatid = 362348668
-token = "9fbbf622098d3cbcd5065420b63fced6"
-ignID = "53f3e27a124e01dcdd77de45995bf0db"
-uuid= "bctps17qqm6hqta7ldhg"
-code = "835782"
-requestId = "bctps17qqm6hqta7ldhg"
-myId = 323232619
+username = "USERNAME"
+password = "PASSWORD"
+chatid = 12345678
+token = "TOKEN"
+ignID = "IGNID"
+uuid= "UUID"
+code = "CODE"
+requestId = "REQUESTID"
+myId = 12345678
 class OfferTracker:
     def __init__(self, username, password):
         self.username = username
